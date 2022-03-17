@@ -1,2 +1,3 @@
 # MyProject
-Project
+print('Project')
+print('this is my first project')
